@@ -1,16 +1,8 @@
-# face_detection
+Developed an app that can classify the statement in to a negative or a positive statement based on Tensorflow model provided. It's my first try for combining flutter with ML
 
-A new Flutter project.
+#flutter #tensorflow
 
-## Getting Started
+link to App: https://lnkd.in/dGNEWXKQ
+give it a try :)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/75114432/190854898-dee58960-a91d-4f45-965c-931aad292c70.png)
